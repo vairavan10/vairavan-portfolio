@@ -5,7 +5,7 @@ export const Container = styled.section`
   display: flex;
   justify-content: space-between;
   gap: 8rem;
-  background: rgba(0,0,0,0);
+  background: rgba(254, 229, 229, 0);
   .hero-text{
     & > p{
       font-size: 1.8rem;
@@ -15,7 +15,7 @@ export const Container = styled.section`
     }
 
     h3{
-      color:var(--green);
+      color:var(--pink);
       margin: 1rem 0;
     }
 
